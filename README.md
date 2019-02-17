@@ -6,20 +6,20 @@
 ## Relevant paper
 
 * IMPROVED ADVERSARIAL DEFENSE THROUGH ROBUST BAYESIAN NEURAL NETWORK [【pdf】](https://arxiv.org/pdf/1803.00404.pdf)<br>
-Ziang Yan, Yiwen Guo, Changshui Zhang NeurIPS 2018
+-Ziang Yan, Yiwen Guo, Changshui Zhang NeurIPS 2018
 
 * Understanding measures of uncertainty for adversarial example detection[【pdf】](https://arxiv.org/pdf/1803.08533v1.pdf)<br>
-Lewis Smith and Yarin Gal  UAI 2018
+-Lewis Smith and Yarin Gal  UAI 2018
 
 * Bayesian adversarial learning[【pdf】](http://papers.nips.cc/paper/7921-bayesian-adversarial-learning.pdf)<br>
-Nanyang Ye and Zhanxing Zhu  NeurIPS 2018
+-Nanyang Ye and Zhanxing Zhu  NeurIPS 2018
 
 
 * Adversarial Distillation of Bayesian Neural Network Posteriors[【pdf】](https://arxiv.org/pdf/1806.10317.pdf)<br> 
-Kuan-Chieh Wang, Paul Vicol, James Lucas, Li Gu, Roger Grosse, Richard S. Zemel  ICML 2018
+-Kuan-Chieh Wang, Paul Vicol, James Lucas, Li Gu, Roger Grosse, Richard S. Zemel  ICML 2018
 
 * Adversarial Phenomenon in the Eyes of Bayesian Deep Learning[【pdf】](https://arxiv.org/pdf/1711.08244.pdf)<br>
-AmbrishRawat,MartinWistuba,and Maria-Irina Nicolae CoRR 2017
+-AmbrishRawat,MartinWistuba,and Maria-Irina Nicolae CoRR 2017
 
 
 
