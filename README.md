@@ -15,6 +15,9 @@ Lewis Smith and Yarin Gal  UAI 2018
 Nanyang Ye and Zhanxing Zhu  NeurIPS 2018
 
 
+* Adversarial Distillation of Bayesian Neural Network Posteriors[【pdf】](https://arxiv.org/pdf/1806.10317.pdf)<br> 
+Kuan-Chieh Wang, Paul Vicol, James Lucas, Li Gu, Roger Grosse, Richard S. Zemel  ICML 2018
+
 * Adversarial Phenomenon in the Eyes of Bayesian Deep Learning[【pdf】](https://arxiv.org/pdf/1711.08244.pdf)<br>
 AmbrishRawat,MartinWistuba,and Maria-Irina Nicolae CoRR 2017
 
