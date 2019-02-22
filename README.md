@@ -1,5 +1,5 @@
 # -BNN-ADVERSARIAL DEFENSE
-使用BNN实现的对抗防御模型相关paper等
+a repo sharing recent relevant papers on implementing adversarial defense model by using Bayesian Neural Network 
 # Adversarial defense
 
 
