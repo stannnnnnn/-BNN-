@@ -5,7 +5,7 @@ a repo sharing recent relevant papers on implementing adversarial defense model 
 
 ## Relevant paper
 
-*PROVEN: Verifying Robustness of Neural Networks with a Probabilistic Approach[【pdf】](https://arxiv.org/pdf/1812.08329.pdf)<br>
+* PROVEN: Verifying Robustness of Neural Networks with a Probabilistic Approach[【pdf】](https://arxiv.org/pdf/1812.08329.pdf)<br>
 -Tsui-Wei Weng ， Pin-Yu Chen ， Lam Nguyen ， Mark Squillante ， Akhilan Boopathy ， Ivan Oseledets ， Luca Daniel  ICML 2019
 
 * LimitationsofAdversarialRobustness: StrongNoFreeLunchTheorem[【pdf】](https://arxiv.org/pdf/1810.04065.pdf)<br>
